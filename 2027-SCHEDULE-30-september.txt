@@ -38,8 +38,8 @@ THE YEAR
 
 STILL NEEDS BETH
   1. SETTLED 30 Sept: the weekly Parvin Monroe Community Group Meeting skips
-     the two Awakening Sundays (9 May, 19 Sep). Its calendar entries for those
-     two dates are still showing - not yet removed.
+     the two Awakening Sundays (9 May, 19 Sep). Those two entries have been
+     removed from the Appointment Calendar; the rest of the series is untouched.
   2. Two October Gateway entries: "GATEWAY 3" 8-14 Oct and the older recurring
      "Gateway Experience Caroline" 9-16 Oct. Not deleted.
   3. A recurring "Awakening Workshop" sits on Sunday 5 Dec 2027 (10.30 to 5.30)
